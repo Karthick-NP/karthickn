@@ -1,6 +1,6 @@
 # Karthick N — Portfolio
 
-🔗 **Live Site:** [karthickjkjk.github.io](https://karthickjkjk.github.io)
+🔗 **Live Site:** https://karthick-np.github.io/karthickn/
 
 Personal portfolio website built to showcase my projects, skills, and journey as a Full Stack Java Developer. Designed with a dark, GitHub-inspired aesthetic and smooth interactive elements.
 
@@ -100,9 +100,9 @@ karthickjkjk.github.io/
 
 ## 📫 Contact
 
-- **GitHub:** [github.com/karthickjkjk](https://github.com/karthickjkjk)
-- **LinkedIn:** *[add your LinkedIn URL]*
-- **Email:** *[add your email]*
+- **GitHub:** https://karthick-np.github.io/karthickn/
+- **LinkedIn:** https://karthick-np.github.io/karthickn/
+- **Email:** it.karthickn@gmail.com
 
 ---
 
