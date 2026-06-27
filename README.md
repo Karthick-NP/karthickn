@@ -1,4 +1,4 @@
-# Karthick J — Portfolio
+# Karthick N — Portfolio
 
 🔗 **Live Site:** [karthickjkjk.github.io](https://karthickjkjk.github.io)
 
@@ -8,7 +8,7 @@ Personal portfolio website built to showcase my projects, skills, and journey as
 
 ## 📌 About
 
-I'm a recent B.Tech Computer Science graduate from Ganesh College of Engineering, Salem, Tamil Nadu (affiliated with Anna University, Chennai), with a strong focus on **Full Stack Java Development**. This portfolio highlights my technical skills, completed projects, and resume — built to support my placement and job search journey.
+I'm a recent B.Tech Information Technology graduate from Ganesh College of Engineering, Salem, Tamil Nadu (affiliated with Anna University, Chennai), with a strong focus on **Full Stack Java Development**. This portfolio highlights my technical skills, completed projects, and resume — built to support my placement and job search journey.
 
 ---
 
@@ -58,13 +58,6 @@ A decentralized land registry system combining traditional backend with blockcha
 - Oracle DB integration
 
 **Tech:** Spring Boot · Solidity · Oracle DB · Blockchain
-
----
-
-### 3. Real-Time Chat Application *(In Progress)*
-A real-time messaging app demonstrating WebSocket-based communication.
-
-**Tech:** Spring Boot · WebSocket · STOMP · SockJS
 
 ---
 
