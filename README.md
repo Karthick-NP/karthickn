@@ -101,8 +101,8 @@ karthickjkjk.github.io/
 ## 📫 Contact
 
 - **GitHub:** https://karthick-np.github.io/karthickn/
-- **LinkedIn:** https://karthick-np.github.io/karthickn/
-- **Email:** it.karthickn@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/karthicknp
+- **Email:** karthickn0305@gmail.com
 
 ---
 
